@@ -10,7 +10,7 @@ For 4 HC-SR04's connected to:
 | 18 | 34 |
 | 19 | 35 |
 
-```
+```python
 import time
 from machine import Pin, Timer
 from async_ultrasonic import AsyncUltrasonic
